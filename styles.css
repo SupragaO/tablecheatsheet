@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, "sans-serif";
+  background-color: #ffe4c4;
+}
+
+.main-text {
+  text-align: center;
+  font-weight: bold;
+}
+
+.tags-text {
+  text-align: center;
+  font-weight: bold;
+  color: #a52a2a;
+}
+
+table {
+  border: 2px solid red;
+  margin: 0 auto;
+  width: 650px;
+  text-align: start;
+}
+
+th {
+  background-color: aqua;
+}
+
+.code {
+  font-family: monospace;
+  background-color: white;
+}
+
+td {
+  border-top: 1px solid purple;
+}
